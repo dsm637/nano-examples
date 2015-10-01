@@ -1,7 +1,7 @@
 {
   "name": "simple-test",
   "scripts": {
-    "test": "node_modules/.bin/mocha -w"
+    "test": "mocha"
   },
   "dependencies": {
     "mocha": "^2.3.3"
